@@ -1,4 +1,4 @@
-# VeRent
+# EazyRent
 A Vehicle Rent Management System
 
 Here you can view various rentable vehicles. We have bikes, cars and bicycles as well.
